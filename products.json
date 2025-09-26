@@ -3,126 +3,126 @@
       "best_seller": true,
       "sold_out": true,
       "slug": "midnight-oud",
-      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/1.png",
+      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/1.png",
       "name": "Midnight Oud",
       "price": 429,
       "short_description": "Fragrance that pulls people in without a word.",
       "full_description": "When night falls, sweetness meets mystery. Vanilla and caramel melt into warm amber and soft spices, wrapping you in comfort and quiet confidence. A scent that feels like elegance after dark.",
       "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Pink pepper, Juniper, Violet<br>– Heart Notes: Toffee, Cinnamon, Lavender, Sage<br>– Base Notes: Vanilla, Amber, Tonka Bean, Suede<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
       "images": [
-        "https://raw.githubusercontent.com/Jcdev-01/Images/main/Midnight-oud.png"
+        "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Midnight-oud.png",
       ]
     },
     {
       "best_seller": false,
       "sold_out": false,
       "slug": "pinnaris",
-      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/2.png",
+      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/2.png",
       "name": "Pinnaris",
       "price": 429,
       "short_description": "A scent of freshness and warmth that brings the spark.",
       "full_description": "A fresh and warm fragrance that awakens hidden emotions and revives sweet memories, leaving a scent so intimate that with every breath it feels as if you are being savored.",
       "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Aldehyes, Bergamot, Ginger, Lemon, Mint<br>– Heart Notes: Apple, Violet Leaf, Pineapple, Sage, Geranium<br>– Base Notes: Ambergris, Musk, Cedar, Balsam Fir, Vetiver, Incense<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
       "images": [
-        "https://raw.githubusercontent.com/Jcdev-01/Images/main/Pinnaris.png"
+        "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Pinnaris.png"
       ]
     },
     {
       "best_seller": true,
       "sold_out": false,
       "slug": "after-hours",
-      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/3.png",
+      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/3.png",
       "name": "After Hours",
       "price": 429,
       "short_description": "A fragrance of temptation and unforgettable memories.",
       "full_description": "Fresh yet warm, a scent of woods and amber that brings back lost moments, stirs the heart, and keeps the feeling alive through the night.",
       "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Saffron, Jasmine<br>– Heart Notes: Amberwood, Ambergris, Hedione<br>– Base Notes: Fir Resin, Cedar, Sugar, Ambroxan, Oakmoss<br><br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
       "images": [
-        "https://raw.githubusercontent.com/Jcdev-01/Images/main/After-hours.png"
+        "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/After-hours.png"
       ]
     },
     {
       "best_seller": false,
       "sold_out": false,
       "slug": "frost-wood",
-      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/4.png",
+      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/4.png",
       "name": "Frost Wood",
       "price": 429,
       "short_description": "Cold at first, hot at the finish, just the way you like it",
       "full_description": "Crisp, fruity-cold opening gives way to bold leather and smoky undertones. Hints of musk, tropical woods, and moss create a magnetic, unforgettable trail. Masculine, fresh, and irresistibly alluring.",
       "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Bergamot, Black Currant, Apple, Lemon, Pink Pepper<br>– Heart Notes: Pineapple, Patchouli, Moroccan Jasmine<br>– Base Notes: Birch, Musk, Oak moss, Cedarwood, Ambroxan<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
       "images": [
-        "https://raw.githubusercontent.com/Jcdev-01/Images/main/Frostwood.png"
+        "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Frostwood.png"
       ]
     },
     {
         "best_seller": true,
         "sold_out": true,
         "slug": "solvaris",
-        "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/5.png",
+        "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/5.png",
         "name": "Solvaris",
         "price": 429,
         "short_description": "The scent of a man you can never catch",
         "full_description": "The scent of a man you can never catch, effortlessly alluring, exuding confidence, and wrapped in timeless, old-money elegance.",
         "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Mint, Green Apple, Lemon<br>– Heart Notes: Tonka Bean, Ambroxan, Geranium<br>– Base Notes: Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver, Oakmoss<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
         "images": [
-          "https://raw.githubusercontent.com/Jcdev-01/Images/main/Solvaris.png"
+          "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Solvaris.png"
         ]
       },
     {
       "best_seller": true,
       "sold_out": false,
       "slug": "veloura",
-      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/6.png",
+      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/6.png",
       "name": "Veloura",
       "price": 429,
       "short_description": "Your scent, a pull and fire in every moment",
       "full_description": "A fresh blend of white florals, citrus, and lavender with soft musky undertones. Effortlessly seductive, it leaves a magnetic trail that draws attention and ignites desire.",
       "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Lavender, Bergamot, Mandarin Orange<br>– Heart Notes: Orange Blossom, Jasmine Tea, Jasmine<br>– Base Notes: Musk, Vanilla, Ambergris<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
       "images": [
-        "https://raw.githubusercontent.com/Jcdev-01/Images/main/Veloura.png"
+        "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Veloura.png"
       ]
     },
     {
       "best_seller": false,
       "sold_out": false,
       "slug": "canna",
-      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/7.png",
+      "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/7.png",
       "name": "Canna",
       "price": 429,
       "short_description": "Sexy, classy, with a scent of desire.",
       "full_description": "A scent of roses and fresh green notes with just the right touch of sweetness. Subtle musky and patchouli undertones leave an elegant trail that captivates, stirs desire, and draws the eyes with effortless grace. Sexy, classy, and always unforgettable.",
       "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Pear, Melon<br>– Heart Notes: Freesia, Rose<br>– Base Notes: Musk, Patchouli, Rhuburb, Amber<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
       "images": [
-        "https://raw.githubusercontent.com/Jcdev-01/Images/main/Canna.png"
+        "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Canna.png"
       ]
     },
     {
         "best_seller": true,
         "sold_out": false,
         "slug": "immortal-kiss",
-        "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/8.png",
+        "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/8.png",
         "name": "Immortal Kiss",
         "price": 429,
         "short_description": "Sweet at first, but loses its taste at the end",
         "full_description": "Our sweetest fragrance, a captivating blend of white florals, vanilla, and warm spices for an alluring and elegant impression. Subtle notes of amber, cacao, and powdery undertones leave a trail of charm and sensual allure. Sexy, sophisticated, and always unforgettable.",
         "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Almond, Coffee, Bergamot, Lemon<br>– Heart Notes: Tuberose, Jasmine Sambac, Orange Blossom, Bulgarian Rose, Orris<br>– Base Notes: Tonka Bean, Cacao, Vanilla, Praline, Sandalwood, Musk, Amber, Cashmere Wood, Patchouli, Cinnamon<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
         "images": [
-          "https://raw.githubusercontent.com/Jcdev-01/Images/main/Immortal-kiss.png"
+          "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Immortal-kiss.png"
         ]
     },
     {
         "best_seller": false,
         "sold_out": false,
         "slug": "sugared-nectar",
-        "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/main/9.png",
+        "thumbnail": "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/9.png",
         "name": "Sugared Nectar",
         "price": 429,
         "short_description": "A fragrance that reaches every corner, countless glances",
         "full_description": "A captivating blend of fresh, ripe fruits and delicate blossoms, this fragrance lingers in the air with an undeniable elegance. Its sophisticated aroma creates a lasting impression, effortlessly drawing attention and leaving a trail of charm wherever you go.",
         "product_description": "<strong>Scent Profile:</strong><br>– Top Notes: Green Notes, Black Currant, Petitgrain<br>– Heart Notes: Nectarine, Black Locust<br>– Base Notes: Peach, Plum, Vetiver<br><br><strong>Intensity:</strong><br>Eau de Parfum — made with high-grade oils for depth, warmth, and allure.<br><br><br><strong>Size:</strong><br>50ml / 1.7 fl. oz.<br><br><strong>Made in:</strong><br>Crafted with fine perfume oils from Grasse, France.",
         "images": [
-          "https://raw.githubusercontent.com/Jcdev-01/Images/main/Sugared-nectar.png"
+          "https://raw.githubusercontent.com/Jcdev-01/Images/refs/heads/main/images/Sugared-nectar.png"
         ]
     }
   ]
