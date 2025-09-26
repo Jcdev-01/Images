@@ -1,16 +1,16 @@
 [
     {
-        "name": "John Carlo",
-        "feedback": "The quality is incredible for the price. After Hours is sophisticated and perfect for evenings out. It smells luxurious.",
+        "name": "Troy Pelayo Galido"
+        "feedback": "The perfume is okay for me because it smells good and it takes a long time before the scent fades from the body.",
+        "rating": 4
+    },
+    {
+        "name": "Jacob Christian",
+        "feedback": "Absolutely captivated by Immortal Kiss. It's my new signature scent. Elegant, long-lasting, and I get compliments everywhere I go",
         "rating": 5
     },
     {
-        "name": "John Hammond",
-        "feedback": "Absolutely captivated by Immortal Kiss. It's my new signature scent. Elegant, long-lasting, and I get compliments everywhere I go",
-        "rating": 2
-    },
-    {
-        "name": "John Cena",
+        "name": "John carlo",
         "feedback": "Veloura is my daytime go-to. It's chic and modern. I'm so sad it's sold out, waiting eagerly for a restock.",
         "rating": 5
     }
