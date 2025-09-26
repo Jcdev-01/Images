@@ -1,0 +1,26 @@
+[
+  {
+    "type": "image",
+    "title": "After Hours",
+    "url": "",
+    "alt": "Coming Soon..."
+  },
+  {
+    "type": "youtube",
+    "title": "Promo Video",
+    "url": "",
+    "alt": "Coming Soon..."
+  },
+  {
+    "type": "tiktok",
+    "title": "TikTok Demo",
+    "url": "",
+    "alt": "Coming Soon..."
+  },
+  {
+    "type": "facebook",
+    "title": "Facebook Showcase",
+    "url": "",
+    "alt": "Coming Soon..."
+  }
+]
